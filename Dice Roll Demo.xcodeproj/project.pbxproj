@@ -12,6 +12,7 @@
 		AC7607E722D12F5E00D101CE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC7607E522D12F5E00D101CE /* Main.storyboard */; };
 		AC7607E922D12F5F00D101CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC7607E822D12F5F00D101CE /* Assets.xcassets */; };
 		AC7607EC22D12F5F00D101CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC7607EA22D12F5F00D101CE /* LaunchScreen.storyboard */; };
+		AC7607F622D131D800D101CE /* American Captain.otf in Resources */ = {isa = PBXBuildFile; fileRef = AC7607F522D131D700D101CE /* American Captain.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		AC7607E822D12F5F00D101CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC7607EB22D12F5F00D101CE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC7607ED22D12F5F00D101CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC7607F522D131D700D101CE /* American Captain.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "American Captain.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AC7607E822D12F5F00D101CE /* Assets.xcassets */,
 				AC7607EA22D12F5F00D101CE /* LaunchScreen.storyboard */,
 				AC7607ED22D12F5F00D101CE /* Info.plist */,
+				AC7607F522D131D700D101CE /* American Captain.otf */,
 			);
 			path = "Dice Roll Demo";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 				AC7607EC22D12F5F00D101CE /* LaunchScreen.storyboard in Resources */,
 				AC7607E922D12F5F00D101CE /* Assets.xcassets in Resources */,
 				AC7607E722D12F5E00D101CE /* Main.storyboard in Resources */,
+				AC7607F622D131D800D101CE /* American Captain.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
