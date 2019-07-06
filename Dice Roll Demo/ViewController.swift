@@ -9,12 +9,22 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    
+    @IBOutlet weak var titleLabel: UILabel!
+    @IBOutlet weak var diceImageView: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
     }
 
+    
+    @IBAction func diceRollButton(_ sender: Any) {
+        
+        
+    }
+    
 
 }
 
