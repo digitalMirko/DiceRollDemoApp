@@ -10,7 +10,6 @@ to the person who rolled it on top ex."You rolled a 3" and then the correspondin
 Each time the person clicks the 'Roll' button another number and die is selected. Sometimes the same one will show up
 but that is because of the small set of numbers (1 - 6) to choose from.
 
-Coming soon:
 Details and the screen cap images of the app in use can be found on <a href="http://digitalmirko.com/iOSApps.html">Digital Mirko</a>.
 
 Screen Cap on a iPhone Xr device:(shown below)</br>
